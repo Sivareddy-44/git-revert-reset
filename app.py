@@ -5,4 +5,4 @@ num = int(input("Enter a number to check: "))
 if num % 3 == 0:
     print(f"{num} is an Even number.")
 else:
-    print(f"{num} is an Odd number.")
+    print(f"{num} is an even number.")
